@@ -19,4 +19,4 @@ F : 1 880 732 pts
 
 ## Overhaul score : 11 675 155 
 
-Monte Carlo & Greedy Algorithm was used to get this score
+Monte Carlo & Greedy Algorithm
